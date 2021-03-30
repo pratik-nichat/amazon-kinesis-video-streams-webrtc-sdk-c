@@ -17,10 +17,10 @@ extern "C" {
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wgnu-zero-variadic-macro-arguments"
 #endif
-#include <com/amazonaws/kinesis/video/client/Include.h>
-#include <com/amazonaws/kinesis/video/common/Include.h>
-#include <com/amazonaws/kinesis/video/webrtcclient/NullableDefs.h>
-#include <com/amazonaws/kinesis/video/webrtcclient/Stats.h>
+#include <webrtc/com/amazonaws/kinesis/video/client/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/webrtcclient/NullableDefs.h>
+#include <webrtc/com/amazonaws/kinesis/video/webrtcclient/Stats.h>
 #if defined(__clang__)
 #pragma clang diagnostic pop
 #endif
