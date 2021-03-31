@@ -24,7 +24,7 @@ extern "C" {
 ////////////////////////////////////////////////////
 // Project include files
 ////////////////////////////////////////////////////
-#include <com/amazonaws/kinesis/video/webrtcclient/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/webrtcclient/Include.h>
 
 #ifdef KVS_USE_OPENSSL
 #include <openssl/bio.h>

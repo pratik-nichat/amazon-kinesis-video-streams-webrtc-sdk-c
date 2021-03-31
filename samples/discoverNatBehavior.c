@@ -1,4 +1,4 @@
-#include <com/amazonaws/kinesis/video/webrtcclient/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/webrtcclient/Include.h>
 
 #define NETWORK_INTERFACE_NAME_PARAM "-i"
 #define STUN_HOSTNAME_PARAM          "-s"
